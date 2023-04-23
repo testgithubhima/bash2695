@@ -20,6 +20,8 @@ public class TakeScreenshot {
 		File dest = new File("Failed.png");
 		FileUtils.copyFile(src,dest);
 		//1st pull
+		//2nd pull
+		
 	}
 
 }
