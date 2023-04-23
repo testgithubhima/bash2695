@@ -19,7 +19,7 @@ public class TakeScreenshot {
 		File src = screen.getScreenshotAs(OutputType.FILE);
 		File dest = new File("Failed.png");
 		FileUtils.copyFile(src,dest);
-		
+		//1st pull
 	}
 
 }
